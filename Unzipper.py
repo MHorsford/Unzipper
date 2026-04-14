@@ -74,13 +74,7 @@ class Unzipper:
   
 
 
-if __name__ == "__main__":
 
-    uz = Unzipper("C:/Users/horsf/Documents/Projetos/Unzipper/Teste", "C:/Users/horsf/Documents/Projetos/Unzipper/Destino_Temp")
-    print('-----------------------------------------')
-    uz.scan()
-    print('-----------------------------------------')
-    uz.extract()
 
 
 
